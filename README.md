@@ -7,6 +7,4 @@
 
 A place to play with `git`.
 
-Year: G1
-
 ### Fall 2020
